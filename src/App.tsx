@@ -73,7 +73,7 @@ function App() {
   }
   return (
     <div style={style} className="text-center">
-      <div className='text-center text-white pt-16'>
+      <div className='text-center text-white pt-8'>
         <h1 className='text-3xl font-bold'>React-Typescipt Quiz</h1>
         <p>By Divine Edeh 😊</p>
       </div>
